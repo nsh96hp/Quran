@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuranTranslation</string>
+    <string name="hello_blank_fragment">Hello</string>
+    <string name="drawer_open">Furan</string>
+    <string name="drawer_close">XARUN</string>
+    <string name="favorite">Raadi</string>
+    <string name="lastverse">Aakhiro</string>
+    <string name="jump">Bood</string>
+    <string name="share">La wadaag</string>
+    <string name="rate">Heerka</string>
+    <string name="nextpart">Qaybta xigta</string>
+    <string name="dismiss">Iska daa</string>
+    <string name="results">Natiijooyinka:</string>
+    <string name="noresults">Lama helin natiijooyinka isbarbar dhigga</string>
+    <string name="exitmain">Riix mar labaad si aad uga baxdo</string>
+    <string name="faild">Qasab maaha</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="jumpver">WAX KA BEDDELAYO VERSE</string>
+    <string name="jumppart">KA HORTAG KARTO QAYBTA</string>
+    <string name="havenotlastverse">Aaadan aayaddan hore</string>
+    <string name="verse">Aayadda</string>
+    <string name="doyouwantdelete">Ma rabtaa inaad tirtirto?</string>
+    <string name="not_share">Ma wadaagi karaan app!</string>
+    <string name="not_rate">Ma furi karna suuqa Android</string>
+
+    <string name="Main">Main</string>
+    <string name="More">More</string>
+    <string name="about_content">HDP Solution waa bixiye khibrad xirfadlayaal IT ah, oo ku takhasusay horumarinta codsiyada moobiilka. Waxaan si joogto ah ugu dadaalnaa sidii loo horumarin lahaa hal-abuurnimo leh rabitaan ah in aan bixino dalabyo waaweyn oo buuxa oo naga caawiya in aan abuurno habka deegaanka ee kala duwan ee codsiyada buuxiya baahiyahaaga oo dhan.</string>
+    <string name="address">Dabaqa 5aad ee dhismaha B5 / D6 Cau Giay-Dich Vong-Cau Giay-Hanoi</string>
+    <string name="phone">+84 966 577 294</string>
+    <string name="mail">support@hdpsolutions.com</string>
+    <string name="copy">nuqul ka samee!</string>
+    <string name="changelanguage">Beddel Luqadda</string>
+</resources>

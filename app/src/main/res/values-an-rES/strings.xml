@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuranTranslation</string>
+    <string name="noresults">No se encontraron resultados coincidentes</string>
+    <string name="hello_blank_fragment">Hola</string>
+    <string name="drawer_open">ABIERTO</string>
+    <string name="drawer_close">CERCA</string>
+    <string name="favorite">Favorito</string>
+    <string name="lastverse">Último verso</string>
+    <string name="jump">Saltar</string>
+    <string name="share">Compartir</string>
+    <string name="rate">Tarifa</string>
+    <string name="nextpart">Siguiente parte</string>
+    <string name="dismiss">Despedir</string>
+    <string name="results">Resultados:</string>
+    <string name="exitmain">Presione nuevamente para salir</string>
+    <string name="faild">Ha fallado</string>
+    <string name="ok">DE ACUERDO</string>
+    <string name="cancel">CANCELAR</string>
+    <string name="jumpver">SALTAR AL VERSO</string>
+    <string name="jumppart">Saltar a la parte</string>
+    <string name="havenotlastverse">No tienes último verso</string>
+    <string name="verse">Verso</string>
+    <string name="doyouwantdelete">¿Quieres eliminar?</string>
+    <string name="not_share">No se pudo compartir la aplicación!</string>
+    <string name="not_rate">No se pudo abrir Android Market</string>
+
+    <string name="Main">Principal</string>
+    <string name="More">Más</string>
+    <string name="about_content">HDP Solution es un proveedor profesional de soluciones de TI, especializado en el desarrollo de aplicaciones móviles. Nos esforzamos constantemente para desarrollar la creatividad con el deseo de ofrecer aplicaciones excelentes e integrales que nos permitan crear un ecosistema diverso de aplicaciones que satisfagan todas sus necesidades.</string>
+    <string name="address">5 ° piso del edificio B5 / D6 Cau Giay-Dich Vung-Cau Giay-Hanoi</string>
+    <string name="phone">+84 966 577 294</string>
+    <string name="mail">support@hdpsolutions.com</string>
+    <string name="copy">¡copia el éxito!</string>
+    <string name="changelanguage">Cambiar idioma</string>
+</resources>

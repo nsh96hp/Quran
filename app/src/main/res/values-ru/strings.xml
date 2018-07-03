@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuranTranslation</string>
+    <string name="not_rate">Не удалось открыть Android-маркет</string>
+    <string name="hello_blank_fragment">Здравствуйте</string>
+    <string name="drawer_open">ОТКРЫТЫЙ</string>
+    <string name="drawer_close">ЗАКРЫТЬ</string>
+    <string name="favorite">любимец</string>
+    <string name="lastverse">Последний стих</string>
+    <string name="jump">Прыгать</string>
+    <string name="share">Поделиться</string>
+    <string name="rate">Ставка</string>
+    <string name="nextpart">Следующая часть</string>
+    <string name="dismiss">отклонять</string>
+    <string name="results">Результаты:</string>
+    <string name="noresults">Результаты поиска не найдены</string>
+    <string name="exitmain">Нажмите еще раз, чтобы выйти</string>
+    <string name="faild">Не смогли</string>
+    <string name="ok">ОК</string>
+    <string name="cancel">ОТМЕНА</string>
+    <string name="jumpver">СКАЧАТЬ К СВОЮ</string>
+    <string name="jumppart">ДЖУМП К ЧАСТИ</string>
+    <string name="havenotlastverse">У тебя последний стих</string>
+    <string name="verse">строфа</string>
+    <string name="doyouwantdelete">Вы хотите удалить?</string>
+    <string name="not_share">Не удалось поделиться приложением!</string>
+
+    <string name="Main">Главный</string>
+    <string name="More">Больше</string>
+    <string name="about_content">HDP Solution - это профессиональный поставщик ИТ-решений, специализирующийся на разработке мобильных приложений. Мы постоянно стремимся развивать креативность с желанием поставлять большие, всеобъемлющие приложения, которые позволяют нам создавать разнообразную экосистему приложений, которые отвечают всем вашим потребностям.</string>
+    <string name="address">5-й этаж здания B5 / D6 Cau Giay-Dich Vong-Cau Giay-Hanoi</string>
+    <string name="phone">+84 966 577 294</string>
+    <string name="mail">support@hdpsolutions.com</string>
+    <string name="copy">копировать успех!</string>
+    <string name="changelanguage">Изменить язык</string>
+</resources>

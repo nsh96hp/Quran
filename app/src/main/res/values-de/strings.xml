@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuranTranslation</string>
+    <string name="not_rate">Android Market konnte nicht geöffnet werden</string>
+    <string name="hello_blank_fragment">Hallo</string>
+    <string name="drawer_open">ÖFFNEN</string>
+    <string name="drawer_close">SCHLIESSEN</string>
+    <string name="favorite">Favorit</string>
+    <string name="lastverse">Letzter Vers</string>
+    <string name="jump">Springen</string>
+    <string name="share">Aktie</string>
+    <string name="rate">Bewertung</string>
+    <string name="nextpart">Nächster Teil</string>
+    <string name="dismiss">Entlassen</string>
+    <string name="results">Ergebnisse:</string>
+    <string name="noresults">Es wurden keine übereinstimmenden Ergebnisse gefunden</string>
+    <string name="exitmain">"Drücken Sie erneut, um zu beenden beenden "</string>
+    <string name="faild">Gescheitert</string>
+    <string name="ok">OK</string>
+    <string name="cancel">STORNIEREN</string>
+    <string name="jumpver">SPRINGEN ZUM VERSE</string>
+    <string name="jumppart">SPRINGEN ZUM TEILEN</string>
+    <string name="havenotlastverse">Du hast keinen letzten Vers</string>
+    <string name="verse">Vers</string>
+    <string name="doyouwantdelete">Möchten Sie löschen?</string>
+    <string name="not_share">App konnte nicht geteilt werden!</string>
+
+    <string name="Main">Main</string>
+    <string name="More">Mehr</string>
+    <string name="about_content">HDP Solution ist ein professioneller IT-Lösungsanbieter, der sich auf die Entwicklung von mobilen Anwendungen spezialisiert hat. Wir sind ständig bestrebt, Kreativität mit dem Wunsch zu entwickeln, großartige, umfassende Anwendungen zu liefern, die es uns ermöglichen, ein vielfältiges Ökosystem von Anwendungen zu schaffen, die alle Ihre Bedürfnisse erfüllen.</string>
+    <string name="address">5. Stock von B5 / D6 Gebäude Cau Giay-Dich Vong-Cau Giay-Hanoi</string>
+    <string name="phone">+84 966 577 294</string>
+    <string name="mail">support@hdpsolutions.com</string>
+    <string name="copy">kopiere Erfolg!</string>
+    <string name="changelanguage">Sprache ändern</string>
+</resources>

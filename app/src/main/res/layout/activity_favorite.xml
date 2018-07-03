@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".DetailsActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/f_toolbar"
+        android:layout_height="56dp"
+        android:layout_width="match_parent"
+        android:minHeight="?attr/actionBarSize"
+        app:popupTheme="@style/AppTheme"
+        app:titleTextColor="@color/colorWhite"
+        android:theme="@style/Toolbar"
+        android:background="?attr/colorPrimary"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_below="@+id/f_toolbar"
+        android:id="@+id/rcv_favorite"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="60dp"
+        android:layout_height="wrap_content">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <com.roughike.bottombar.BottomBar
+        android:id="@+id/bottomBarS"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/colorPrimary"
+        android:layout_alignParentBottom="true"
+        app:bb_inActiveTabAlpha="0.3"
+        app:bb_inActiveTabColor="#fff"
+        app:bb_activeTabColor="#fff"
+        app:bb_tabXmlResource="@xml/bottombar_tabs">
+
+    </com.roughike.bottombar.BottomBar>
+</RelativeLayout>

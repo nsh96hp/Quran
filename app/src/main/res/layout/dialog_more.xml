@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="240dp"
+    android:background="#fff"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/title_jump"
+        android:text="HDP SOLUTION"
+        android:gravity="center"
+        android:background="@color/colorPrimary"
+        android:textColor="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:text="@string/about_content"
+            android:textColor="#33334c" />
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:src="@drawable/ic_mail"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="0dp"
+                android:layout_weight="6"
+                android:layout_height="fill_parent"
+                android:text="@string/mail"
+                android:textColor="#33334c" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:src="@drawable/ic_phone"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="0dp"
+                android:layout_weight="6"
+                android:layout_height="fill_parent"
+                android:text="@string/phone"
+                android:textColor="#33334c" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:src="@drawable/ic_add_location"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/text3"
+                android:layout_width="0dp"
+                android:layout_weight="6"
+                android:layout_height="60dp"
+                android:text="@string/address"
+                android:textColor="#33334c" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageButton
+            android:id="@+id/di_cancel"
+            android:text="@string/cancel"
+            android:background="#2E7D32"
+            android:textColor="#2E7D32"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:src="@drawable/ic_arrow_back_black"
+            android:layout_height="40dp" />
+        <ImageButton
+            android:id="@+id/di_share"
+            android:text="@string/share"
+            android:background="#2E7D32"
+            android:textColor="#fff"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:src="@drawable/ic_share"
+            android:layout_height="40dp" />
+        <ImageButton
+            android:id="@+id/di_rate"
+            android:text="@string/rate"
+            android:src="@drawable/ic_star_rate"
+            android:background="#2E7D32"
+            android:textColor="#fff"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="40dp" />
+    </LinearLayout>
+
+</LinearLayout>

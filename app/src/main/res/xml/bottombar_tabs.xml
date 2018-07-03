@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <tab
+        id="@+id/tab_main"
+        icon="@drawable/ic_library_books"
+        barColorWhenSelected="#fff"
+        title="@string/Main" />
+    <tab
+        id="@+id/tab_favorites"
+        icon="@drawable/ic_favorite"
+        barColorWhenSelected="#fff"
+        title="@string/favorite" />
+    <tab
+        id="@+id/tab_plus"
+        barColorWhenSelected="#fff"
+        icon="@drawable/ic_add_to_photos"
+        title="@string/More" />
+</tabs>

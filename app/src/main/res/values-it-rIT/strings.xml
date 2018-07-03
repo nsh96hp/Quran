@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuranTranslation</string>
+    <string name="hello_blank_fragment">Ciao</string>
+    <string name="drawer_open">APERTO</string>
+    <string name="drawer_close">VICINO</string>
+    <string name="favorite">Preferito</string>
+    <string name="lastverse">Ultimo verso</string>
+    <string name="jump">Saltare</string>
+    <string name="share">Condividere</string>
+    <string name="rate">Vota</string>
+    <string name="nextpart">Parte successiva</string>
+    <string name="dismiss">Respingere</string>
+    <string name="results">risultati:</string>
+    <string name="noresults">Non sono stati trovati risultati corrispondenti</string>
+    <string name="exitmain">Premere di nuovo per uscire</string>
+    <string name="faild">mancato</string>
+    <string name="ok">ok</string>
+    <string name="cancel">ANNULLA</string>
+    <string name="jumpver">SALTO A VERSO</string>
+    <string name="jumppart">SALTA A PARTE</string>
+    <string name="verse">Versetto</string>
+    <string name="havenotlastverse">Non hai l\'ultimo verso</string>
+    <string name="doyouwantdelete">Vuoi eliminare?</string>
+    <string name="not_share">Impossibile condividere l\'app!</string>
+    <string name="not_rate">Impossibile aprire Android Market</string>
+
+    <string name="Main">Principale</string>
+    <string name="More">Di Più</string>
+    <string name="about_content">HDP Solution is a professional IT solutions provider, specializing in developing mobile applications. We are constantly striving to develop creativity with the desire to deliver great, comprehensive applications that enable us to create a diverse ecosystem of applications that meet all your needs.</string>
+    <string name="address">5 ° piano del B5 / D6 edificio Cau Giay-Dich Vong-Cau Giay-Hanoi</string>
+    <string name="phone">+84 966 577 294</string>
+    <string name="mail">support@hdpsolutions.com</string>
+    <string name="copy">copia successo!</string>
+    <string name="changelanguage">Cambia lingua</string>
+</resources>

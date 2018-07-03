@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="240dp"
+    android:orientation="vertical"
+    android:padding="4dp"
+    android:background="@color/colorlang"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+        <ImageButton
+            android:id="@+id/l1"
+            android:src="@drawable/malay_indo"
+            android:scaleType="fitCenter"
+            android:background="@color/colorlang"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <ImageButton
+            android:id="@+id/l2"
+            android:src="@drawable/england"
+            android:background="@color/colorlang"
+
+            android:scaleType="fitCenter"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <ImageButton
+            android:id="@+id/l3"
+            android:src="@drawable/turkey"
+            android:background="@color/colorlang"
+            android:scaleType="fitCenter"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/t1"
+            android:text="INDONESIA"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textColor="@color/colorTlang"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/t2"
+            android:text="INDONESIA"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textColor="@color/colorTlang"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/t3"
+            android:text="INDONESIA"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textColor="@color/colorTlang"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+        <ImageButton
+            android:id="@+id/l4"
+            android:src="@drawable/france"
+            android:scaleType="fitCenter"
+            android:background="@color/colorlang"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <ImageButton
+            android:id="@+id/l5"
+            android:src="@drawable/germany"
+            android:background="@color/colorlang"
+
+            android:scaleType="fitCenter"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <ImageButton
+            android:id="@+id/l6"
+            android:src="@drawable/italy"
+            android:background="@color/colorlang"
+            android:scaleType="fitCenter"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/t4"
+            android:text="INDONESIA"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textColor="@color/colorTlang"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/t5"
+            android:text="INDONESIA"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textColor="@color/colorTlang"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/t6"
+            android:text="INDONESIA"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textColor="@color/colorTlang"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+        <ImageButton
+            android:id="@+id/l7"
+            android:src="@drawable/russia"
+            android:scaleType="fitCenter"
+            android:background="@color/colorlang"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <ImageButton
+            android:id="@+id/l8"
+            android:src="@drawable/somalia"
+            android:background="@color/colorlang"
+
+            android:scaleType="fitCenter"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <ImageButton
+            android:id="@+id/l9"
+            android:src="@drawable/spain"
+            android:background="@color/colorlang"
+            android:scaleType="fitCenter"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/t7"
+            android:text="INDONESIA"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textColor="@color/colorTlang"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/t8"
+            android:text="INDONESIA"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textColor="@color/colorTlang"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/t9"
+            android:text="INDONESIA"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textColor="@color/colorTlang"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

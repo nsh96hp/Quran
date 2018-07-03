@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/m_Read"
+        android:title="Read"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_read_24dp"
+        app:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/m_Jump"
+        android:title="Jump"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_jump"
+        app:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/m_NextPart"
+        android:title="@string/nextpart"
+        android:orderInCategory="100"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/m_ChangeLanguage"
+        android:title="@string/changelanguage"
+        android:orderInCategory="100"
+        app:showAsAction="never">
+    </item>
+</menu>

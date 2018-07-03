@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuranTranslation</string>
+    <string name="hello_blank_fragment">Merhaba</string>
+    <string name="drawer_open">AÇIK</string>
+    <string name="drawer_close">KAPAT</string>
+    <string name="favorite">Favori</string>
+    <string name="lastverse">Son Ayet</string>
+    <string name="jump">Atlama</string>
+    <string name="share">Pay</string>
+    <string name="nextpart">Sonraki bölüm</string>
+    <string name="rate">oran</string>
+    <string name="dismiss">Reddet</string>
+    <string name="results">Sonuçlar:</string>
+    <string name="noresults">Eşleşen sonuç bulunamadı</string>
+    <string name="exitmain">Çıkmak için tekrar basın</string>
+    <string name="faild">Başarısız oldu</string>
+    <string name="ok">tamam</string>
+    <string name="cancel">İPTAL ETMEK</string>
+    <string name="jumpver">VERSE İÇİN JUMP</string>
+    <string name="jumppart">Parçaya JUMP</string>
+    <string name="havenotlastverse">Son ayet yok</string>
+    <string name="verse">ayet</string>
+    <string name="doyouwantdelete">Silmek istiyor musun?</string>
+    <string name="not_share">Uygulama paylaşılamadı!</string>
+    <string name="not_rate">Android Market açılamadı</string>
+
+    <string name="Main">Ana</string>
+    <string name="More">Daha</string>
+    <string name="about_content">HDP Çözümü, mobil uygulamalar geliştirmek konusunda uzmanlaşmış profesyonel bir BT çözümleri sağlayıcısıdır. Tüm ihtiyaçlarınızı karşılayan farklı bir uygulama ekosistemi oluşturmamızı sağlayan kapsamlı ve kapsamlı uygulamalar sunma isteğiyle sürekli olarak yaratıcılık geliştirmeye çalışıyoruz.</string>
+    <string name="address">B5 / D6 binanın 5. kat Cau Giay-Dich Vong-Cau Giay-Hanoi</string>
+    <string name="phone">+84 966 577 294</string>
+    <string name="mail">support@hdpsolutions.com</string>
+    <string name="copy">başarıyı kopyala!</string>
+    <string name="changelanguage">Dili değiştir</string>
+</resources>

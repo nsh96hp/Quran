@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="240dp"
+    android:background="#fff"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/title_jump"
+        android:text="@string/jumppart"
+        android:gravity="center"
+        android:background="@color/colorPrimary"
+        android:textColor="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
+    <Spinner
+        android:id="@+id/spin_part"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"></Spinner>
+    <EditText
+        android:id="@+id/num_jump"
+        android:hint="1-100"
+        android:textColor="#000"
+        android:gravity="center"
+        android:inputType="numberDecimal"
+        android:background="@android:color/transparent"
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/d_cancel"
+            android:text="@string/cancel"
+            android:background="#757575"
+            android:textColor="#fff"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="40dp" />
+        <Button
+            android:id="@+id/d_ok"
+            android:text="@string/ok"
+            android:background="#2E7D32"
+            android:textColor="#fff"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="40dp" />
+    </LinearLayout>
+
+</LinearLayout>

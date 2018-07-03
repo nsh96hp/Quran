@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">QuranTranslation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello</string>
+    <string name="drawer_open">OPEN</string>
+    <string name="drawer_close">CLOSE</string>
+    <string name="favorite">Favorite</string>
+    <string name="lastverse">Last Verse</string>
+    <string name="jump">Jump</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate</string>
+    <string name="nextpart">Next Part</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="results">Results:</string>
+    <string name="noresults">No matching results were found</string>
+    <string name="exitmain">Press again to exit</string>
+    <string name="faild">Faild</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="jumpver">JUMP TO VERSE</string>
+    <string name="jumppart">JUMP TO PART</string>
+    <string name="havenotlastverse">You have\'t last verse</string>
+    <string name="verse">Verse</string>
+    <string name="doyouwantdelete">Do you want delete?</string>
+    <string name="not_share">Could not share app!</string>
+
+
+    <string name="Main">Main</string>
+    <string name="More">More</string>
+    <string name="about_content">HDP Solution is a professional IT solutions provider, specializing in developing mobile applications. We are constantly striving to develop creativity with the desire to deliver great, comprehensive applications that enable us to create a diverse ecosystem of applications that meet all your needs.</string>
+    <string name="address">5th floor of B5 / D6 building Cau Giay-Dich Vong-Cau Giay-Hanoi</string>
+    <string name="phone">+84 966 577 294</string>
+    <string name="mail">support@hdpsolutions.com</string>
+    <string name="copy">copy success!</string>
+    <string name="changelanguage">Change Language</string>
+    <string name="not_rate">Could not rate app!</string>
+
+
+</resources>

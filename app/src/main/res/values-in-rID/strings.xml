@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuranTranslation</string>
+    <string name="hello_blank_fragment">Halo</string>
+    <string name="drawer_open">BUKA</string>
+    <string name="drawer_close">DEKAT</string>
+    <string name="favorite">Favorit</string>
+    <string name="lastverse">Ayat Terakhir</string>
+    <string name="jump">Melompat</string>
+    <string name="share">Bagikan</string>
+    <string name="rate">Menilai</string>
+    <string name="nextpart">Bagian Selanjutnya</string>
+    <string name="dismiss">Memberhentikan</string>
+    <string name="results">Hasil:</string>
+    <string name="noresults">Tidak ditemukan hasil yang cocok</string>
+    <string name="exitmain">Tekan lagi untuk keluar</string>
+    <string name="faild">Gagal</string>
+    <string name="ok">BAIK</string>
+    <string name="cancel">MEMBATALKAN</string>
+    <string name="jumpver">JUMP KE VERSE</string>
+    <string name="jumppart">JUMP KE BAGIAN</string>
+    <string name="havenotlastverse">Anda tidak memiliki ayat terakhir</string>
+    <string name="verse">Ayat</string>
+    <string name="doyouwantdelete">Anda ingin menghapus?</string>
+    <string name="not_share">Tidak dapat membagikan aplikasi!</string>
+    <string name="not_rate">Tidak dapat membuka Android Market</string>
+
+    <string name="Main">Utama</string>
+    <string name="More">Lebih</string>
+    <string name="about_content">Solusi HDP adalah penyedia solusi IT profesional, yang mengkhususkan diri dalam pengembangan aplikasi seluler. Kami terus berupaya mengembangkan kreativitas dengan keinginan untuk menghadirkan aplikasi yang hebat dan komprehensif yang memungkinkan kami untuk membuat ekosistem aplikasi yang beragam yang memenuhi semua kebutuhan Anda.</string>
+    <string name="address">5. Saham von B5 / D6 Gebäude Cau Giay-Dich Vong-Cau Giay-Hanoi</string>
+    <string name="phone">+84 966 577 294</string>
+    <string name="mail">support@hdpsolutions.com</string>
+    <string name="copy">salin kesuksesan!</string>
+    <string name="changelanguage">ganti BAHASA</string>
+</resources>
